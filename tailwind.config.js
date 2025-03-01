@@ -10,16 +10,20 @@ export default {
         "./node_modules/flowbite/**/*.js",
     ],
     theme: {
+        fontFamily: {
+            sans: ['Roboto', 'sans-serif'],
+        },
         extend: {
             gridTemplateColumns: {
                 'desktop': 'repeat(3, minmax(0, 1fr))',
                 'tablet': 'repeat(2, minmax(0, 1fr))',
             },
             colors: {
-                'medical-green': {
-                    light: '#4ade80',
-                    DEFAULT: '#22c55e',
-                    dark: '#16a34a'
+                'farm': {
+                    'green': '#2E7D32',
+                    'brown': '#795548',
+                    'gray': '#F5F5F5',
+                    'orange': '#FF5722'
                 }
             }
         },
