@@ -34,7 +34,8 @@
                 <p class="text-farm-brown text-center
                           text-base lg:text-[16px] md:text-[14px] sm:text-[12px]
                           mb-6 line-clamp-3">
-                    Chuyên cung cấp đủ loại cây kiểng đẹp, cây công trình xanh tốt, giá cả phải chăng và nguồn gốc rõ ràng.
+                    Chuyên cung cấp đủ loại cây kiểng đẹp, cây công trình xanh tốt, giá cả phải chăng và nguồn gốc rõ
+                    ràng.
                 </p>
                 <a href="#contact" class="mt-auto inline-flex items-center justify-center
                                         w-[150px] lg:w-[150px] md:w-[130px] sm:w-[120px]
@@ -98,7 +99,8 @@
                 <p class="text-farm-brown text-center
                           text-base lg:text-[16px] md:text-[14px] sm:text-[12px]
                           mb-6 line-clamp-3">
-                    Với kinh nghiệm lâu năm, chúng tôi thi công cây xanh và thảm cỏ cho công viên, khu nghỉ dưỡng một cách tỉ mỉ, chu đáo.
+                    Với kinh nghiệm lâu năm, chúng tôi thi công cây xanh và thảm cỏ cho công viên, khu nghỉ dưỡng một
+                    cách tỉ mỉ, chu đáo.
                 </p>
                 <a href="#contact" class="mt-auto inline-flex items-center justify-center
                                         w-[150px] lg:w-[150px] md:w-[130px] sm:w-[120px]
@@ -173,6 +175,39 @@
                                         rounded-lg
                                         transition-all duration-300 transform hover:scale-105
                                         shadow-md hover:shadow-lg">
+                    Tìm Hiểu Thêm
+                </a>
+            </div>
+
+            <!-- Service Card 5: Đấu thầu công trình -->
+            <div class="bg-white rounded-lg shadow-md hover:shadow-lg
+             transition-all duration-300 transform hover:-translate-y-1
+             p-6 flex flex-col items-center
+             md:col-span-2 lg:col-span-1">
+                <div class="w-[100px] h-[100px] lg:w-[100px] lg:h-[100px] md:w-[80px] md:h-[80px] sm:w-[60px] sm:h-[60px]
+                 mb-6 rounded-full overflow-hidden border-2 border-farm-green">
+                    <img src="{{ asset('images/pic/z6359973535959_e064e562deb2158dfa47cd2799f4a9b7.jpg') }}"
+                         alt="Đấu thầu công trình"
+                         class="w-full h-full object-cover">
+                </div>
+                <h3 class="font-roboto font-bold text-farm-green
+                text-xl lg:text-xl md:text-lg sm:text-base
+                mb-4">
+                    Bán cây con
+                </h3>
+                <p class="text-farm-brown text-center
+               text-base lg:text-[16px] md:text-[14px] sm:text-[12px]
+               mb-6 line-clamp-3">
+                    Bán cây giống
+                </p>
+                <a href="#contact" class="mt-auto inline-flex items-center justify-center
+                             w-[150px] lg:w-[150px] md:w-[130px] sm:w-[120px]
+                             h-[40px] lg:h-[40px] md:h-[35px] sm:h-[30px]
+                             bg-farm-orange hover:bg-farm-orange/80
+                             text-white font-semibold
+                             rounded-lg
+                             transition-all duration-300 transform hover:scale-105
+                             shadow-md hover:shadow-lg">
                     Tìm Hiểu Thêm
                 </a>
             </div>

@@ -11,4 +11,9 @@ class MainController extends Controller
         return view('shop.storeFront');
     }
 
+    public function catFilter()
+    {
+        return view('shop.catFilter');
+    }
+
 }

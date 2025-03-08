@@ -30,6 +30,5 @@ class AppServiceProvider extends ServiceProvider
                 return Route::post(config('app.livewire_prefix').'/livewire/update', $handle);
             });
         }
-
     }
 }

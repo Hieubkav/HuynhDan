@@ -9,7 +9,7 @@
             <p class="font-roboto text-farm-brown/80
                       text-lg lg:text-[18px] md:text-[16px] sm:text-[14px]
                       leading-relaxed mb-8">
-                Mời bà con ghé lại vườn cây chúng tôi thường xuyên để chiêm ngưỡng những cây kiểng đẹp
+                Mời các bạn ghé lại hợp tác xã chúng tôi thường xuyên để chiêm ngưỡng những cây kiểng đẹp
                 và tận hưởng không khí trong lành của miền sông nước.
             </p>
             <div class="flex justify-center space-x-4">
